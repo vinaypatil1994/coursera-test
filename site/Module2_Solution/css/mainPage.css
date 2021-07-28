@@ -23,10 +23,6 @@ h1 {
     position: relative;
 }
 
-p2 {
-    padding: 10px;
-}
-
 .title1 {
     background-color: antiquewhite;
     display: flex;
@@ -40,18 +36,20 @@ p2 {
 }
 
 .content1 {
-    height: 150px;
+    height: 160px;
     overflow: hidden;
     background-color: aliceblue;
     margin-left: 10px;
         margin-right: 10px;
         margin-bottom: 10px;
         border: 1px solid black;
+        padding-left: 10px;
+        padding-bottom: 10px;
 
 }
 
 .title2 {
-    background-color: gray;
+    background-color: #ebef9a;
     display: flex;
     float: right;
     width: 150px;
@@ -62,7 +60,7 @@ p2 {
         margin-bottom: 10px;
 }
 .content2 {
-    height: 150px;
+    height: 160px;
     background-color: #ceabab;
     overflow: hidden;
     margin-left: 10px;
@@ -72,7 +70,7 @@ p2 {
 }
 
 .title3 {
-    background-color:#8484bf;
+    background-color:#7ed4ca;
     display: flex;
     float: right;
     width: 150px;
@@ -84,7 +82,7 @@ p2 {
 }
 
 .content3 {
-    height: 150px;
+    height: 160px;
     overflow: hidden;
     background-color: antiquewhite;
     margin-left: 10px;
