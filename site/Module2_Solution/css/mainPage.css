@@ -26,7 +26,6 @@ h1 {
 .title1 {
     border: 1px solid black;
     height: 50px;
-    width: 150px;
     background-color: antiquewhite;
     padding: 25px;
     margin-right: 0px;
@@ -35,7 +34,6 @@ h1 {
 
 .content1 {
     height: 150px;
-    width: 150px;
     overflow: hidden;
 
 }
@@ -43,7 +41,6 @@ h1 {
 .title2 {
     border: 1px solid black;
     height: 50px;
-    width: 150px;
     background-color: gray;
     padding: 25px;
     margin-right: 0px;
@@ -51,14 +48,12 @@ h1 {
 }
 .content2 {
     height: 150px;
-    width: 150px;
     overflow: hidden;
 }
 
 .title3 {
     border: 1px solid black;
     height: 50px;
-    width: 150px;
     background-color:#8484bf;
     padding: 25px;
     margin-right: 0px;
@@ -67,7 +62,6 @@ h1 {
 
 .content3 {
     height: 150px;
-    width: 150px;
     overflow: hidden;
 }
 
@@ -76,9 +70,9 @@ h1 {
      .col-sm-12 {
         float: left;
         border: 1px solid black;
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-bottom: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
       }
       .col-sm-12 {
         width: 100%;
@@ -91,9 +85,9 @@ h1 {
     .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
         float: left;
         border: 1px solid black;
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-bottom: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
       }
       .col-md-1 {
         width: 8.33%;
@@ -139,9 +133,9 @@ h1 {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
         float: left;
         border: 1px solid black;
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-bottom: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
       }
       .col-lg-1 {
         width: 8.33%;
