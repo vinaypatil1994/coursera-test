@@ -1,27 +1,41 @@
+* {
+    box-sizing: border-box;
+  }
+
 h1 {
     margin-left: 45%;
+    margin-bottom: 15px;
 }
 
 
 .section1 {
+    border: 1px solid black;
     height: 150px;
     width: 150px;
     background-color: antiquewhite;
     padding: 25px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .section2 {
+    border: 1px solid black;
     height: 150px;
     width: 150px;
     background-color: gray;
     padding: 25px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .section3 {
+    border: 1px solid black;
     height: 150px;
     width: 150px;
     background-color:blue;
     padding: 25px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 @media (max-width: 767px) {
