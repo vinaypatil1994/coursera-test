@@ -4,22 +4,22 @@
   }
 
 h1 {
-    margin-left: 45%;
+    text-align: center;
     margin-bottom: 15px;
 }
 
 .box1{
-    background-color: aliceblue;
+   
     position: relative;
 }
 
 .box2{
-    background-color: #ceabab;
+   
     position: relative;
 }
 
 .box3{
-    background-color: antiquewhite;
+   
     position: relative;
 }
 
@@ -30,11 +30,19 @@ h1 {
     padding: 25px;
     margin-right: 0px;
     margin-left: auto;
+    text-align: center;
+    margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
 }
 
 .content1 {
     height: 150px;
     overflow: hidden;
+    background-color: aliceblue;
+    margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
 
 }
 
@@ -45,10 +53,18 @@ h1 {
     padding: 25px;
     margin-right: 0px;
     margin-left: auto;
+    text-align: center;
+    margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
 }
 .content2 {
     height: 150px;
+    background-color: #ceabab;
     overflow: hidden;
+    margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
 }
 
 .title3 {
@@ -58,11 +74,19 @@ h1 {
     padding: 25px;
     margin-right: 0px;
     margin-left: auto;
+    text-align: center;
+    margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
 }
 
 .content3 {
     height: 150px;
     overflow: hidden;
+    background-color: antiquewhite;
+    margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
 }
 
 @media (max-width: 767px) {
@@ -70,9 +94,7 @@ h1 {
      .col-sm-12 {
         float: left;
         border: 1px solid black;
-        margin-left: 10px;
-        margin-right: 10px;
-        margin-bottom: 10px;
+        
       }
       .col-sm-12 {
         width: 100%;
