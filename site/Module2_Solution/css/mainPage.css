@@ -23,16 +23,19 @@ h1 {
     position: relative;
 }
 
+p2 {
+    padding: 10px;
+}
+
 .title1 {
-    border: 1px solid black;
-    height: 50px;
     background-color: antiquewhite;
-    padding: 25px;
-    margin-right: 0px;
-    margin-left: auto;
-    text-align: center;
-    margin-left: 10px;
-        margin-right: 10px;
+    display: flex;
+    float: right;
+    width: 150px;
+    justify-content: center;
+    border: 1px solid black;
+    height: 30px;  
+    margin-left: 70%;
         margin-bottom: 10px;
 }
 
@@ -48,17 +51,15 @@ h1 {
 }
 
 .title2 {
-    border: 1px solid black;
-    height: 50px;
     background-color: gray;
-    padding: 25px;
-    margin-right: 0px;
-    margin-left: auto;
-    text-align: center;
-    margin-left: 10px;
-        margin-right: 10px;
+    display: flex;
+    float: right;
+    width: 150px;
+    justify-content: center;
+    border: 1px solid black;
+    height: 30px;  
+    margin-left: 70%;
         margin-bottom: 10px;
-        border: 1px solid black;
 }
 .content2 {
     height: 150px;
@@ -71,17 +72,15 @@ h1 {
 }
 
 .title3 {
-    border: 1px solid black;
-    height: 50px;
     background-color:#8484bf;
-    padding: 25px;
-    margin-right: 0px;
-    margin-left: auto;
-    text-align: center;
-    margin-left: 10px;
-        margin-right: 10px;
+    display: flex;
+    float: right;
+    width: 150px;
+    justify-content: center;
+    border: 1px solid black;
+    height: 30px;  
+    margin-left: 70%;
         margin-bottom: 10px;
-        border: 1px solid black;
 }
 
 .content3 {
